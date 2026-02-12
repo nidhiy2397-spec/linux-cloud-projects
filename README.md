@@ -4,7 +4,7 @@ This repository contains my hands-on Linux and AWS Cloud Computing Projects for 
 
 ## 👩‍💻 About Me
 
-I am a Diploma graduate in Cloud Computing with hands-on experience in Linux, AWS, and Shell Scripting. I build real-world cloud projects to prepare for Cloud Support and DevOps Engineer roles.
+I am a Diploma graduate in Cloud Computing with hands-on experience in Linux and AWS. I have worked on practical projects involving EC2, S3, IAM, Load Balancer, Auto Scaling, and Shell Scripting. I am focused on strengthening my cloud and system administration skills through real-world practice.
 
 ## Projects
 
