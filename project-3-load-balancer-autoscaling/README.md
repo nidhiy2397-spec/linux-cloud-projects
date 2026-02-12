@@ -1,1 +1,34 @@
+# Project 3 - Load Balancer + Auto Scaling
+
+## Objective
+Implement high availability architecture using AWS.
+
+## Services Used
+- EC2
+- AMI
+- Launch Template
+- Application Load Balancer
+- Auto Scaling Group
+
+## Architecture
+User → Load Balancer → Target Group → EC2 Instances
+
+## Scaling Config
+Min:1
+Desired:2
+Max:3
+
+## 📸 Screenshots
+
+### Auto Scaling Group Configuration
+![ASG Config]()
+
+### EC2 Instances Running
+![EC2 Instances](screenshots/ec2-instances-running.png)
+
+### Target Group Healthy
+![Target Group](screenshots/target-group-healthy.png)
+
+### Load Balancer DNS Working
+![Load Balancer](screenshots/load-balancer-dns-working.png)
 
