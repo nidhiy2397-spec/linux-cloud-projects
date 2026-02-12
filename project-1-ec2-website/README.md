@@ -24,5 +24,19 @@ sudo yum install nginx -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
+## 📸 Screenshots
+
+### EC2 Running
+![EC2](screenshots/ec2.png)
+
+### Security Group
+![SG](screenshots/security.png)
+
+### Nginx Output
+![Nginx](screenshots/nginx.png)
+
+### Website Output
+![Website](screenshots/website.png)
+
 
 
