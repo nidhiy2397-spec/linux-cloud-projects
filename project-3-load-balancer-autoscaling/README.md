@@ -30,5 +30,5 @@ Max:3
 ![Target Group](screenshots/target-group-healthy.png)
 
 ### Load Balancer DNS Working
-![Load Balancer](screenshots/load-balancer-dns-working.png)
+![Load Balancer](Screenshot 2026-02-13 012505.png)
 
