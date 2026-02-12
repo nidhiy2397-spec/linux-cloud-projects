@@ -46,7 +46,7 @@ I am a Diploma student in Cloud Computing with skills in Linux , AWS and Shell S
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/nidhiyadav-cloud
-GitHub: (this repo link)
+
 
 
 
