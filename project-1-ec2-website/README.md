@@ -20,9 +20,13 @@ Deploy a static website on an AWS EC2 instance using Amazon Linux and Nginx.
 ## 💻 Commands Used
 ```bash
 sudo yum update -y
-sudo yum install nginx -y
-sudo systemctl start nginx
+sudo yum install -y nginx firewalld
 sudo systemctl enable nginx
+sudo systemctl start nginx
+sudo systemctl enable firewalld
+sudo systemctl start firewalld
+firewall-cmd --permanent --add-service=http
+echo "welcome to aws and this is my $(hostname)" >/usr/share/nginx/html/index.html
 
 ## 📸 Screenshots
 
