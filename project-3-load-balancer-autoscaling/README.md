@@ -21,7 +21,7 @@ Max:3
 ## 📸 Screenshots
 
 ### Auto Scaling Group Configuration
-![ASG Config]()
+![ASG Config](Screenshot 2026-02-13 014438.png)
 
 ### EC2 Instances Running
 ![EC2 Instances](screenshots/ec2-instances-running.png)
