@@ -27,7 +27,7 @@ Max:3
 ![EC2 Instances](Screenshot 2026-02-13 011237.png)
 
 ### Target Group Healthy
-![Target Group](Screenshot 2026-02-13 012138.png)
+![Target Group](project-3-load-balancer-autoscaling/screenshots/Screenshot 2026-02-13 012138.png)
 
 ### Load Balancer DNS Working
 ![Load Balancer](Screenshot 2026-02-13 012505.png)
