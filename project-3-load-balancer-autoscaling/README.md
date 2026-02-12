@@ -1,7 +1,7 @@
 # Project 3 - Load Balancer + Auto Scaling
 
 ## Objective
-Implement high availability architecture using AWS.
+Designed and implemented a highly available and fault-tolerant architecture using AWS Application Load Balancer and Auto Scaling Group with CPU-based dynamic scaling.
 
 ## Services Used
 - EC2
@@ -9,9 +9,14 @@ Implement high availability architecture using AWS.
 - Launch Template
 - Application Load Balancer
 - Auto Scaling Group
+- Auto Scaling → Scaling policies → Add policy → Target tracking → CPU 60%
 
-## Architecture
-User → Load Balancer → Target Group → EC2 Instances
+## 🏗 Architecture
+
+User → Application Load Balancer → EC2 Instances (Auto Scaling Group)
+
+Load Balancer distributes traffic.
+Auto Scaling maintains and dynamically scales instances based on CPU usage.
 
 ## Scaling Config
 Min:1
@@ -27,7 +32,7 @@ Max:3
 ![EC2 Instances](Screenshot 2026-02-13 011237.png)
 
 ### Target Group Healthy
-![Target Group](project-3-load-balancer-autoscaling/screenshots/Screenshot 2026-02-13 012138.png)
+![Target Group](Screenshot 2026-02-13 012138.png)
 
 ### Load Balancer DNS Working
 ![Load Balancer](Screenshot 2026-02-13 012505.png)
