@@ -30,7 +30,7 @@ sudo systemctl enable nginx
 ![EC2](Screenshot 2026-02-12 203804.png)
 
 ### Security Group
-![SG](screenshots/security.png)
+![SG](Screenshot 2026-02-12 204902.png)
 
 ### Nginx Output
 ![Nginx](screenshots/nginx.png)
