@@ -27,7 +27,7 @@ sudo systemctl enable nginx
 ## 📸 Screenshots
 
 ### EC2 Running
-![EC2](screenshots/ec2.png)
+![EC2](Screenshot 2026-02-12 203804.png)
 
 ### Security Group
 ![SG](screenshots/security.png)
