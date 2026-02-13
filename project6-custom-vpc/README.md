@@ -65,7 +65,7 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 
 📸 Screenshot:
 ![Route Table-private](Screenshot 2026-02-14 015116.png)
-
+![Route Table-public](Screenshot 2026-02-14 001521.png)
 ---
 
 ### Step 5: Launched EC2 Instances
