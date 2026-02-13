@@ -55,13 +55,15 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 ### Step 3: Created and Attached Internet Gateway
 
 📸 Screenshot:
-![IGW](screenshots/3-igw.png)
+![IGW](Screenshot 2026-02-14 001224.png)
 
 ---
 
 ### Step 4: Configured Route Table
 - Added 0.0.0.0/0 route to Internet Gateway
 - Associated with Public Subnet
+- Added 0.0.0.0/0 route to NAT Gateway
+- Associated with private subnet
 
 📸 Screenshot:
 ![Route Table-private](Screenshot 2026-02-14 015116.png)
@@ -71,6 +73,8 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 ### Step 5: Launched EC2 Instances
 - Public EC2 with public IP (Web server)
 - Private EC2 without public IP
+- Made Bastion Host
+- Ping 8.8.8.8 from private instance
 
 📸 Screenshot:
 ![Public EC2](Screenshot 2026-02-14 015350.png)
@@ -78,6 +82,8 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 📸 Screenshot:
 ![Private EC2](Screenshot 2026-02-14 015452.png)
 
+📸 Screenshot:
+![Ping 8.8.8.8](
 ---
 
 ## 💬 Interview Explanation
