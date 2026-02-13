@@ -66,7 +66,7 @@ Automatically monitor EC2 CPU usage and send email alerts if CPU exceeds thresho
 ## Screenshots
 
 1. **CloudWatch Alarm Setup**
-![CloudWatch Alarm]()
+![CloudWatch Alarm](Screenshot 2026-02-13 215450.png)
 
 2. **SNS Topic Confirmation**
 ![SNS Topic](Screenshot 2026-02-13 220740.png)
