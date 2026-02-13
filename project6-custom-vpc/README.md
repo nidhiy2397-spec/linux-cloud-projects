@@ -73,7 +73,7 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 - Private EC2 without public IP
 
 📸 Screenshot:
-![Public EC2](screenshots/5-public-ec2.png)
+![Public EC2](Screenshot 2026-02-14 015350.png)
 
 📸 Screenshot:
 ![Private EC2](Screenshot 2026-02-14 015452.png)
