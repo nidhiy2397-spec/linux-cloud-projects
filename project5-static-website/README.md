@@ -42,7 +42,7 @@ Static Website Files (index.html)
 - Index document: index.html
 
 📸 Screenshot:
-![Static Hosting](screenshots/2-static-hosting.png)
+![Static Hosting](Screenshot 2026-02-13 230253.png)
 
 ---
 
