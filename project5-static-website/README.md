@@ -60,7 +60,7 @@ Static Website Files (index.html)
 - Used default cache behavior
 
 📸 Screenshot:
-![CloudFront]()
+![CloudFront](Screenshot 2026-02-13 230637.png)
 
 ---
 
