@@ -76,7 +76,7 @@ To create a custom VPC with public and private subnets and deploy EC2 instances 
 ![Public EC2](screenshots/5-public-ec2.png)
 
 📸 Screenshot:
-![Private EC2](screenshots/6-private-ec2.png)
+![Private EC2](Screenshot 2026-02-14 015452.png)
 
 ---
 
