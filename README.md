@@ -1,12 +1,35 @@
 # linux-cloud-projects- Nidhi
 
-This repository contains my hands-on Linux and AWS Cloud Computing Projects for fresher-level roles.
+# 👋 Hi, I'm Nidhi
+🚀 AWS Cloud Engineer | Designing Secure & Scalable AWS Infrastructure | VPC & Multi-VPC Networking | IAM | Monitoring
+
 
 ## 👩‍💻 About Me
 
-I am a Diploma graduate in Cloud Computing with hands-on experience in Linux and AWS. I have worked on practical projects involving EC2, S3, IAM, Load Balancer, Auto Scaling, and Shell Scripting. I am focused on strengthening my cloud and system administration skills through real-world practice.
+I am an aspiring AWS Cloud Engineer with hands-on experience designing secure and scalable cloud architectures. I have built multiple AWS networking projects including custom VPC design, public/private subnet implementation, Bastion Host access control, NAT Gateway configuration, VPC Peering, and Transit Gateway architecture.
 
-## Projects
+I focus on cloud networking, security best practices, and infrastructure monitoring using AWS services.
+
+---
+
+## ☁️ Cloud Expertise
+
+- Custom VPC Architecture Design
+- Public & Private Subnet Implementation
+- Internet Gateway & NAT Gateway Configuration
+- Bastion Host Setup for Secure Access
+- VPC Peering (Cross-VPC Communication)
+- Transit Gateway (Hub-and-Spoke Architecture)
+- Route Tables Management & Traffic Flow Analysis
+- High Availability & Basic Scalability Concepts
+- IAM Roles, Policies & Least Privilege Principle
+- Security Groups & Network Isolation
+- CloudWatch Monitoring & Alarms
+- Load Balancer & Auto Scaling 
+
+---
+
+## 🚀 AWS Projects
 
 ### 1️⃣ AWS EC2 Website Deployment
 📂  Path: /project-1-ec2-website/
@@ -39,16 +62,66 @@ I am a Diploma graduate in Cloud Computing with hands-on experience in Linux and
 
 ---
 
-## 🛠️ Tools & Technologies
+### 4️⃣ EC2 Monitoring with CloudWatch
+📂 Path: /project4-ec2-monitoring/
 
-- Linux (Amazon Linux)
-- AWS (EC2, S3, IAM, ALB, CloudWatch , VPC)
-- Shell Scripting
-- Git & GitHub
+- Configured CloudWatch alarms for CPU utilization
+- Performed stress testing and monitoring validation
 
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/nidhiyadav-cloud
+---
 
+### 5️⃣ Static Website Hosting using S3 + CloudFront
+📂 Path: /project5-static-website/
+
+- Hosted a static website using Amazon S3
+- Configured bucket policies for public access
+- Enabled static website hosting feature
+- Implemented CloudWatch monitoring for request metrics
+- Ensured secure and reliable content delivery
+  
+---
+
+### 6️⃣ Secure VPC Architecture with Public & Private Subnets
+📂 Path: /project6-custom-vpc/
+
+- Designed custom VPC with subnet isolation
+- Implemented Bastion Host for secure SSH access
+- Configured NAT Gateway for outbound internet connectivity
+- Verified traffic flow and network security
+
+---
+
+## 🛠 AWS Services Hands-On
+
+- EC2
+- AMI
+- Snapshot
+- Volume Storage
+- VPC
+- IAM
+- S3
+- CloudWatch
+- SES
+- SNS
+- CloudFront
+- Route 53 (Basic DNS Concepts)
+- Elastic Load Balancer
+- Auto Scaling
+- NAT Gateway
+- Transit Gateway
+- VPC Peering
+
+---
+
+## 🎯 Career Objective
+
+Seeking an entry-level AWS Cloud Engineer role where I can apply my hands-on experience in VPC architecture, multi-VPC networking, IAM security, and cloud monitoring to build secure and scalable cloud infrastructure.
+
+---
+
+## 📫 Let's Contact
+- LinkedIn: https://www.linkedin.com/in/nidhiyadav-cloud
+- Email: nidhiy.2397@gmail.com
 
 
 
